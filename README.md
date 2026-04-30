@@ -1,4 +1,4 @@
-# Animated Auth: Flutter + Django Production-Ready System
+# Auth: Flutter + Django Production-Ready System
 
 This isn't just another basic login app. It's a full-stack, industry-standard authentication system designed with smooth animations and production-grade security logic. 
 

@@ -18,7 +18,7 @@ We built this to handle the "real world" stuff: secure token storage, automatic 
 *   **Riverpod State:** Solid state management to keep the UI in sync with the user's auth status.
 *   **Production Interceptor:** A background Dio interceptor that automatically attaches tokens to requests and retries them if they expire.
 
-## 🛠 Setup & Run
+## Setup & Run
 
 ### 1. Start the Backend
 ```bash

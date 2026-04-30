@@ -4,7 +4,7 @@ This isn't just another basic login app. It's a full-stack, industry-standard au
 
 We built this to handle the "real world" stuff: secure token storage, automatic refreshing, email verification, and a flexible login (Email or Username).
 
-## 🚀 What's inside?
+##  What's inside?
 
 ### The Backend (Django REST Framework)
 *   **Custom User Model:** Uses UUIDs instead of simple IDs for better security.
@@ -36,7 +36,7 @@ flutter run
 
 ---
 
-## 🪵 Real Talk: Issues We Faced & Fixed
+## Real Talk: Issues We Faced & Fixed
 
 Development isn't always smooth. Here are the "gotchas" i solved during this build:
 
@@ -47,7 +47,7 @@ Development isn't always smooth. Here are the "gotchas" i solved during this bui
 
 ---
 
-## 🚧 Next Steps for Production
+## Next Steps for Production
 *   [ ] **Connect SMTP:** Add your Gmail App Password to `settings.py` to send real emails.
 *   [ ] **Social Keys:** Add your Google/Apple Client IDs to the `AuthNotifier`.
 *   [ ] **Forgot Password:** Implement the reset flow (frontend and backend already have the folders ready).

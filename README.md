@@ -1,6 +1,6 @@
 # Auth: Flutter + Django Production-Ready System
 
-This isn't just another basic login app. It's a full-stack, industry-standard authentication system designed with smooth animations and production-grade security logic. 
+It's a full-stack, industry-standard authentication system designed with smooth animations and production-grade security logic. 
 
 I built this to handle the "real world" stuff: secure token storage, automatic refreshing, email verification, and a flexible login (Email or Username).
 
